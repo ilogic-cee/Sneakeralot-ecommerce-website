@@ -1,6 +1,6 @@
 # SneakerALot
 
-#### Video Demo: https://ilogic-cee.github.io/Sneakeralot-ecommerce-website/
+#### Demo: https://ilogic-cee.github.io/Sneakeralot-ecommerce-website/
 
 #### Description:
 
